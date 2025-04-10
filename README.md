@@ -2,7 +2,49 @@
 
 This repository contains various research projects, reports, presentations, and code related to my academic work. Below is a brief overview of the projects included.
 
-### Project 1: Circadian Rhythms in Lumbriculus variegatus
+### Project 1: Predicting Migration Survival in Swainson’s Thrushes Using Machine Learning
+## Folder Contents:
+* Slides
+* Report
+* Code
+
+## Description:
+In this project, I used machine learning (ML) to explore how diverse traits in Swainson’s thrush hybrids—particularly those related to migration—affect their survival during migration. The study focused on two subspecies of Swainson’s thrushes, which form a migratory divide in the Coast Mountains of western North America. By analyzing a range of behavioral, morphological, and genetic traits, the project aimed to identify how these traits interact to determine survival, thus providing insight into the processes of ecological speciation.
+
+The primary goal of this study was to leverage the power of machine learning techniques to detect complex, non-linear, and interactive relationships between various traits and survival outcomes. This study utilized two machine learning models: Random Forest and Neural Networks. The project included data collection through fieldwork (capturing birds, taking measurements, and collecting genetic samples), followed by feature selection and model training. The results of these models help understand the fitness landscape of Swainson’s thrush hybrids and provide insight into post-zygotic isolation mechanisms.
+
+## Key Aspects of the Project:
+### Machine Learning Models:
+
+* **Random Forest:** An ensemble method used to construct multiple decision trees and predict survival outcomes based on trait data.
+
+* **Neural Networks:** Multi-layer perceptron (MLP) used to capture complex interactions between traits, leveraging hierarchical data representations to predict survival.
+
+### Feature Selection and Preprocessing:
+
+* Phenotypic and genotypic features were included, such as body measurements, migratory behavior, and genetic ancestry.
+
+* Missing data was handled using K-Nearest Neighbors (KNN) imputation, and class imbalance was addressed using the Synthetic Minority Over-sampling Technique (SMOTE).
+
+### Data Collection:
+
+* Data was collected through the capture and tagging of juvenile Swainson’s thrushes, with tracking provided via automated radio telemetry and genetic analysis.
+
+* The dataset included 479 birds, with a focus on survival tracking during migration.
+
+### Evaluation Metrics:
+
+* Model performance was evaluated using accuracy, confusion matrices, and feature importance scores.
+
+* The models identified key traits, such as norm_kipps, norm_bodyCondition, and norm_tarsus.length, as the most influential predictors of survival.
+
+### Ecological Implications:
+
+* The project provides insights into how traits associated with migration influence survival, offering a better understanding of ecological speciation in hybrid zones.
+
+* The use of ML to connect trait variation with fitness opens new avenues for studying post-zygotic isolation in migratory species.
+
+### Project 2: Circadian Rhythms in Lumbriculus variegatus
 ## Folder Contents:
 * Poster
 * Report
@@ -25,49 +67,39 @@ This project focused on investigating circadian rhythm mechanisms in Lumbriculus
 
 * **Collaboration:** Worked closely with a lab partner and presented findings at an undergraduate research poster session and competition.
 
-### This project contributes valuable insights into the understanding of circadian rhythm mechanisms, particularly in non-mammalian organisms like Lumbriculus variegatus, with potential implications for broader chronobiological research.
+### Project 3: Graduate Defense - Turing Instability and Biological Applications
+## Folder Contents:
+* Slides
 
-Project 2: Survival of Migration in Swainson’s Thrush
-Folder Contents:
+## Description:
+This project explores Turing instability and its role in biological pattern formation through the lens of reaction-diffusion systems. Inspired by Alan Turing’s 1952 paper "The Chemical Basis of Morphogenesis," the presentation investigates how spontaneous patterns—such as animal stripes and spots—can arise from simple chemical interactions governed by partial differential equations. This project was developed as part of a graduate-level course on Ordinary and Partial Differential Equations and integrates foundational concepts from both biology and mathematics.
 
-Slides
+I begin by introducing the biological motivation for the study of pattern formation and Turing's groundbreaking idea that patterns can emerge from interactions between diffusing and reacting chemical species. I then walk through the mathematical formulation of reaction-diffusion equations, specifically the Gray-Scott model, and show how the stability of spatially uniform steady states can change when diffusion is introduced. Using linearization and eigenvalue analysis, I demonstrate how diffusion can destabilize a system that is otherwise stable—an essential condition for Turing pattern formation.
 
-Report
+## Key Aspects of the Project:
+* **Interdisciplinary Focus:** Combines biological questions (e.g. how spots and stripes form) with rigorous mathematical modeling.
 
-Code
+* **Reaction-Diffusion Equations:** Introduces and explains how partial differential equations govern the diffusion and reaction of chemicals in space and time.
 
-Description:
-This research focuses on identifying traits that contribute to migration survival in Swainson’s thrush using a dataset of 500 samples. Machine learning models (Random Forest and MLP Classifier) were implemented in Python (sklearn), and statistical models (Probit and Multiple Logistic Regression) were used in R to predict migration survival.
+* **Gray-Scott Model:** A simplified two-species model is used to demonstrate how activator-inhibitor dynamics can lead to pattern formation.
 
-Key aspects of the project:
+* **Turing Instability:** The core concept that diffusion—normally a stabilizing force—can destabilize a steady state in the presence of certain reaction kinetics, giving rise to patterns.
 
-Data preprocessing: removed entries with more than 50% null values, eliminated features with correlations above 0.75, and applied KNN imputation.
+* **Mathematical Techniques:**
 
-Applied SMOTE to balance the classes in the dataset.
+  * Linearization around steady states.
 
-Evaluated models via performance metrics using sklearn and pROC, interpreting results in a biological context.
+  * Jacobian matrix and eigenvalue analysis.
 
-Presented findings in weekly meetings, discussing methodologies, statistical analysis, and ecological implications.
+  * Use of trace and determinant to determine stability.
 
-Project 3: Graduate Defense - Turing Instability and Biological Applications
-Folder Contents:
+  * Taylor expansion to derive the linearized system.
 
-Slides
+* **Biological Interpretation:** Turing’s theory is applied to explain natural phenomena, such as animal coat patterns and morphogenesis during development.
 
-Description:
-For my graduate defense, I delivered a technical presentation on Turing Instability and its applications in biological modeling. I focused on morphogenesis, pigmentation patterns, and ecological modeling using ODEs, PDEs, and linear stability analysis.
+* **Personal Context:** Reflects the intersection of my background in biology and current mathematical training, illustrating how math can enhance understanding of biological complexity.
 
-Key aspects of the presentation:
+# Contact Information:
+### LinkedIn: www.linkedin.com/in/sarahvastani
 
-Applied reaction-diffusion equations to model pattern formation.
-
-Analyzed Jacobian matrices and eigenvalues to determine steady-state stability in dynamical systems.
-
-Explained the role of Laplacian operators and diffusion coefficients in pattern formation.
-
-Explored the Gray-Scott model as an example of reaction-diffusion systems, demonstrating how small perturbations lead to pattern emergence.
-
-Contact Information:
-LinkedIn
-
-Email
+### Email: sarahvastani@gmail.com
