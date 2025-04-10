@@ -25,7 +25,7 @@ This project focused on investigating circadian rhythm mechanisms in Lumbriculus
 
 * **Collaboration:** Worked closely with a lab partner and presented findings at an undergraduate research poster session and competition.
 
-This project contributes valuable insights into the understanding of circadian rhythm mechanisms, particularly in non-mammalian organisms like Lumbriculus variegatus, with potential implications for broader chronobiological research.
+#### This project contributes valuable insights into the understanding of circadian rhythm mechanisms, particularly in non-mammalian organisms like Lumbriculus variegatus, with potential implications for broader chronobiological research.
 
 Project 2: Survival of Migration in Swainson’s Thrush
 Folder Contents:
