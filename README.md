@@ -2,7 +2,7 @@
 
 This repository contains various research projects, reports, presentations, and code related to my academic work. Below is a brief overview of the projects included.
 
-### Project 1: Predicting Migration Survival in Swainson’s Thrushes Using Machine Learning
+# Project 1: Predicting Migration Survival in Swainson’s Thrushes Using Machine Learning
 ## Folder Contents:
 * Slides
 * Report
