@@ -100,6 +100,6 @@ I begin by introducing the biological motivation for the study of pattern format
 * **Personal Context:** Reflects the intersection of my background in biology and current mathematical training, illustrating how math can enhance understanding of biological complexity.
 
 ## Contact Information:
-### LinkedIn: www.linkedin.com/in/sarahvastani
+#### LinkedIn: www.linkedin.com/in/sarahvastani
 
-### Email: sarahvastani@gmail.com
+#### Email: sarahvastani@gmail.com
