@@ -7,6 +7,7 @@ This repository contains various research projects, reports, presentations, and 
 * Slides
 * Report
 * Code
+* Dataset
 
 ### Description:
 In this project, I used machine learning (ML) to explore how diverse traits in Swainson’s thrush hybrids—particularly those related to migration—affect their survival during migration. The study focused on two subspecies of Swainson’s thrushes, which form a migratory divide in the Coast Mountains of western North America. By analyzing a range of behavioral, morphological, and genetic traits, the project aimed to identify how these traits interact to determine survival, thus providing insight into the processes of ecological speciation.
