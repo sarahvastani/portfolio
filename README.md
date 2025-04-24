@@ -1,3 +1,8 @@
+## Contact Information:
+#### LinkedIn: www.linkedin.com/in/sarahvastani
+
+#### Email: sarahvastani@gmail.com
+
 # Research Projects and Work
 
 This repository contains various research projects, reports, presentations, and code related to my academic work. Below is a brief overview of the projects included.
@@ -99,8 +104,3 @@ I begin by introducing the biological motivation for the study of pattern format
 * **Biological Interpretation:** Turing’s theory is applied to explain natural phenomena, such as animal coat patterns and morphogenesis during development.
 
 * **Personal Context:** Reflects the intersection of my background in biology and current mathematical training, illustrating how math can enhance understanding of biological complexity.
-
-## Contact Information:
-#### LinkedIn: www.linkedin.com/in/sarahvastani
-
-#### Email: sarahvastani@gmail.com
