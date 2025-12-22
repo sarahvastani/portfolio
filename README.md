@@ -1,13 +1,50 @@
-## Contact Information:
+<img width="1173" height="68" alt="image" src="https://github.com/user-attachments/assets/966c3acc-6d2f-499d-9cc7-101bd25af465" />## Contact Information:
 #### LinkedIn: www.linkedin.com/in/sarahvastani
 
 #### Email: sarahvastani@gmail.com
 
 # Research Projects and Work
 
-This repository contains various research projects, reports, presentations, and code related to my academic work. Below is a brief overview of the projects included.
+## Project 1: AlphaPullDown: AI-Driven Modeling of Microbial Protein–Protein Interactions
 
-## Project 1: Predicting Migration Survival in Swainson’s Thrushes Using Machine Learning
+### Folder Contents:
+* bait_single.fasta → SanA bait sequence
+* ecoli_candidates.fasta → prey sequences used in predictions
+* pkl_files_link → ecoli_pkl_json.tar.gz containing feature .pkl + metadata .json archives
+* pdb_files_link → ecoli_pdb.tar.gz containing ranked PDB structures for SanA complexes
+* alphapulldown_modified_bundle(.zip) → patched Python scripts + SLURM wrappers
+* predictions.csv → table containing confidence scores of predicted structures
+
+### Description:
+In this project, I used AlphaPulldown, a high‑throughput interface to AlphaFold‑Multimer, to predict potential protein–protein interactions in Escherichia coli. The goal was to generate structural models for candidate interaction partners, evaluate their plausibility, and integrate biological context to identify the most credible interaction hypotheses. This work supports downstream experimental validation and contributes to understanding functional relationships within bacterial systems.
+
+The project involved preparing curated sequence inputs, generating AlphaFold feature dictionaries, running large‑scale multimer predictions on a computing cluster, and organizing the resulting structural models. To ensure biological relevance, each predicted interaction was evaluated using compartment localization, membrane topology, and functional annotations. Large model archives (PDBs, PKLs, JSONs) are hosted externally due to GitHub file‑size limits.
+
+### Key Aspects of the Project:
+#### High‑Throughput Structure Prediction:
+
+* Used AlphaPulldown to automate feature generation and multimer model prediction across many candidate proteins.
+
+* Ensured reproducibility through standardized SLURM job scripts and consistent sequence/MSA handling.
+
+#### Feature Generation and Model Outputs
+
+* Created AlphaFold feature dictionaries (.pkl, .json) and multimer structural models (.pdb) for each candidate pair.
+
+* Organized outputs into compressed archives for efficient storage and sharing.
+
+#### Biological Filtering and Interpretation
+
+* Assessed predicted interactions using cellular compartment data, membrane topology predictions, and functional annotations.
+
+* Filtered out structurally plausible but biologically incompatible interactions.
+
+#### Reproducibility and Documentation
+* Included workflow notes, command logs, and reasoning steps to ensure transparency and repeatability.
+
+* Provided external links to large datasets for accessibility.
+
+## Project 2: Predicting Migration Survival in Swainson’s Thrushes Using Machine Learning
 ### Folder Contents:
 * Slides
 * Report
@@ -50,7 +87,7 @@ The primary goal of this study was to leverage the power of machine learning tec
 
 * The use of ML to connect trait variation with fitness opens new avenues for studying post-zygotic isolation in migratory species.
 
-## Project 2: Circadian Rhythms in Lumbriculus variegatus
+## Project 3: Circadian Rhythms in Lumbriculus variegatus
 ### Folder Contents:
 * Poster
 * Report
@@ -73,7 +110,7 @@ This project focused on investigating circadian rhythm mechanisms in Lumbriculus
 
 * **Collaboration:** Worked closely with a lab partner and presented findings at an undergraduate research poster session and competition.
 
-## Project 3: Graduate Defense - Turing Instability and Biological Applications
+## Project 4: Graduate Defense - Turing Instability and Biological Applications
 ### Folder Contents:
 * Slides
 
