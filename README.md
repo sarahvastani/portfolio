@@ -1,4 +1,4 @@
-<img width="1173" height="68" alt="image" src="https://github.com/user-attachments/assets/966c3acc-6d2f-499d-9cc7-101bd25af465" />## Contact Information:
+## Contact Information:
 #### LinkedIn: www.linkedin.com/in/sarahvastani
 
 #### Email: sarahvastani@gmail.com
