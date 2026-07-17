@@ -1,6 +1,6 @@
 # Sarah Vastani
 
-Computational biologist and data scientist with experience in machine learning, bioinformatics, structural biology, and biological data analysis. I develop reproducible computational workflows using Python, R, Linux/HPC environments, and machine learning approaches to investigate complex biological systems. My work combines computational modeling with experimental validation in molecular biology, including bacterial genetics, microscopy, and protein characterization.
+Computational biologist with expertise in machine learning, statistical modeling, and data science approaches for biological data analysis. Experienced in developing reproducible Python/R workflows, building predictive models, and analyzing complex datasets using machine learning approaches, high-performance computing, and data-driven methods. Skilled in integrating computational analyses with experimental research, with experience in bioinformatics, molecular biology, and scientific communication. Co-author on peer-reviewed publications.
 
 ## Contact Information
 
