@@ -1,6 +1,6 @@
 # Sarah Vastani
 
-Computational biologist with experience in machine learning, bioinformatics, structural biology, and biological data analysis. I develop reproducible computational workflows using Python, R, Linux/HPC environments, and machine learning approaches to investigate biological systems. My work combines computational modeling with experimental validation in molecular biology, including bacterial genetics, microscopy, and protein characterization.
+Computational biologist and data scientist with experience in machine learning, bioinformatics, structural biology, and biological data analysis. I develop reproducible computational workflows using Python, R, Linux/HPC environments, and machine learning approaches to investigate complex biological systems. My work combines computational modeling with experimental validation in molecular biology, including bacterial genetics, microscopy, and protein characterization.
 
 ## Contact Information
 
@@ -12,9 +12,9 @@ Computational biologist with experience in machine learning, bioinformatics, str
 # Technical Skills
 
 - **Programming:** Python, R, Bash, Git/GitHub, LaTeX
-- **Machine Learning & Data Science:** Random Forest, Balanced Random Forest, Decision Trees, Neural Networks, SHAP, Feature Engineering, KNN Imputation, SMOTE, Model Interpretation
+- **Machine Learning & Data Science:** scikit-learn, Random Forest, Balanced Random Forest, Decision Trees, Neural Networks, SHAP, Feature Engineering, KNN Imputation, SMOTE, Model Interpretation
 - **Bioinformatics & Structural Biology:** AlphaFold, AlphaFold-Multimer, AlphaPulldown, Sequence Analysis, Protein Interaction Prediction, Multiple Sequence Alignment
-- **Computing & Data Management:** Linux/Unix, HPC Clusters, SLURM Workload Manager, GPU Computing, Reproducible Workflows
+- **Computing & Data Analysis:** Linux/Unix, HPC Clusters, SLURM Workload Manager, GPU Computing, Reproducible Workflows, Data Processing
 - **Molecular & Cell Biology:** Bacterial Genetics, Molecular Cloning, PCR, Transformation, Recombineering, Microscopy, Immunohistochemistry, Western Blotting, SDS-PAGE
 
 ---
@@ -99,7 +99,8 @@ This project connected mathematical theory with biological applications, includi
 ### Predicting Migratory Survival in a Songbird Hybrid Zone Using Machine Learning
 
 Vastani SA, Blain SA, Justen H, et al.  
-*Scientific Reports*, 2026.
+*Scientific Reports*, 2026.  
+[Publication Link](https://doi.org/10.1038/s41598-026-58881-5)
 
 Developed a machine learning framework to identify genetic, morphological, and behavioral predictors of migratory survival in a hybrid bird population.
 
@@ -108,7 +109,8 @@ Developed a machine learning framework to identify genetic, morphological, and b
 ### Impaired Envelope Integrity in the Absence of SanA Is Linked to Increased Lipid II Availability and an Imbalance of Septal Peptidoglycan Synthesis
 
 Carr JF, Basurto De Santiago C, Bhut SA, Warzecha DJ, Vastani SA, et al.  
-*mBio*, 2026.
+*mBio*, 2026.  
+[Publication Link](https://doi.org/10.1128/mbio.00635-26)
 
 Contributed to research investigating bacterial cell envelope integrity through molecular biology experiments, microscopy, and protein characterization approaches.
 
