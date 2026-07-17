@@ -102,8 +102,6 @@ Vastani SA, Blain SA, Justen H, et al.
 *Scientific Reports*, 2026.  
 [Publication Link](https://doi.org/10.1038/s41598-026-58881-5)
 
-Developed a machine learning framework to identify genetic, morphological, and behavioral predictors of migratory survival in a hybrid bird population.
-
 ---
 
 ### Impaired Envelope Integrity in the Absence of SanA Is Linked to Increased Lipid II Availability and an Imbalance of Septal Peptidoglycan Synthesis
@@ -111,18 +109,3 @@ Developed a machine learning framework to identify genetic, morphological, and b
 Carr JF, Basurto De Santiago C, Bhut SA, Warzecha DJ, Vastani SA, et al.  
 *mBio*, 2026.  
 [Publication Link](https://doi.org/10.1128/mbio.00635-26)
-
-Contributed to research investigating bacterial cell envelope integrity through molecular biology experiments, microscopy, and protein characterization approaches.
-
----
-
-# Research Interests
-
-- Machine Learning for Biological Discovery
-- Computational Biology
-- Bioinformatics
-- Structural Biology
-- Genotype–Phenotype Relationships
-- Protein Interaction Prediction
-- High-Performance Computing
-- Integrative Computational and Experimental Biology
