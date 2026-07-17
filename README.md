@@ -7,6 +7,14 @@ Computational biologist with experience in machine learning, bioinformatics, str
 LinkedIn: www.linkedin.com/in/sarahvastani  
 Email: sarahvastani@gmail.com
 
+# Technical Skills
+
+- Programming: Python, R, Bash
+- Machine Learning: Random Forest, Neural Networks, SHAP, Feature Engineering
+- Bioinformatics: AlphaFold, AlphaPulldown, Sequence Analysis
+- Computing: Linux, HPC Clusters, SLURM, Git/GitHub
+- Biology: Molecular Biology, Bacterial Genetics, Microscopy
+
 ## AlphaPulldown: AI-Driven Modeling of Microbial Protein–Protein Interactions
 
 **Tools:** AlphaFold-Multimer, AlphaPulldown, Python, Linux/HPC, SLURM, structural bioinformatics
