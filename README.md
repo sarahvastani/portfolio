@@ -13,7 +13,6 @@ The project involved preparing curated sequence inputs, generating AlphaFold fea
 
 ## Predicting Migration Survival in Swainson’s Thrushes Using Machine Learning
 
-### Description:
 In this project, I used machine learning to explore how diverse traits in Swainson’s thrush hybrids—particularly those related to migration—affect their survival during migration. The study focused on two subspecies of Swainson’s thrushes, which form a migratory divide in the Coast Mountains of western North America. By analyzing a range of behavioral, morphological, and genetic traits, the project aimed to identify how these traits interact to determine survival, thus providing insight into the processes of ecological speciation.
 
 The primary goal of this study was to leverage the power of machine learning techniques to detect complex, non-linear, and interactive relationships between various traits and survival outcomes. This study utilized two machine learning models: Random Forest and Neural Networks. The project included data collection through fieldwork (capturing birds, taking measurements, and collecting genetic samples), followed by feature selection and model training. The results of these models help understand the fitness landscape of Swainson’s thrush hybrids and provide insight into post-zygotic isolation mechanisms.
@@ -27,8 +26,3 @@ This project focused on investigating circadian rhythm mechanisms in Lumbriculus
 This project explores Turing instability and its role in biological pattern formation through the lens of reaction-diffusion systems. Inspired by Alan Turing’s 1952 paper "The Chemical Basis of Morphogenesis," the presentation investigates how spontaneous patterns—such as animal stripes and spots—can arise from simple chemical interactions governed by partial differential equations. This project was developed as part of a graduate-level course on Ordinary and Partial Differential Equations and integrates foundational concepts from both biology and mathematics.
 
 I begin by introducing the biological motivation for the study of pattern formation and Turing's groundbreaking idea that patterns can emerge from interactions between diffusing and reacting chemical species. I then walk through the mathematical formulation of reaction-diffusion equations, specifically the Gray-Scott model, and show how the stability of spatially uniform steady states can change when diffusion is introduced. Using linearization and eigenvalue analysis, I demonstrate how diffusion can destabilize a system that is otherwise stable—an essential condition for Turing pattern formation.
-
-
-* **Biological Interpretation:** Turing’s theory is applied to explain natural phenomena, such as animal coat patterns and morphogenesis during development.
-
-* **Personal Context:** Reflects the intersection of my background in biology and current mathematical training, illustrating how math can enhance understanding of biological complexity.
